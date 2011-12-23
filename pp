@@ -1,0 +1,1 @@
+PATH=d:\RailsInstaller\Git\cmd;d:\RailsInstaller\Ruby1.9.2\bin;C:\Program Files\NVIDIA Corporation\PhysX\Common;d:\bats;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;d:\jdk;\d:\jdk\bin;d:\jdk\jre\bin;D:\RailsInstaller\Ruby1.8.7\bin;D:\Maven\apache-maven-3.0.3\bin;\hercules\Hercules3.07\FishCTC\bin;\hercules\Hercules3.07;d:\git;\RailsInstaller\Git\bin
